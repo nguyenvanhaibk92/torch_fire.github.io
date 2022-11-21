@@ -1,4 +1,4 @@
-## **TorchFire**
+## <h1><center>TorchFire</center></h1>
 
 <p align="center">
 <img src="assets\logo.jpg" width="300" height="300" />
