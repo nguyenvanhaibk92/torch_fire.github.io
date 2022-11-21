@@ -63,7 +63,7 @@ $$
 
 <p align="center">
 <img src="assets/figures/Heat_eq/Animations.gif">
-<figcaption><b>Figure 2: (Left) conductivity field, (Middle) Predicted solution obtained by TorchFire neural network, (Right) True solution obtained by Firedrake software <figcaption>
+<figcaption><b>Figure 2: (Left) conductivity field, (Middle) True solution obtained by Firedrake software, (Right) Predicted solution obtained by TorchFire neural network<figcaption>
 <p>
 
 #### *Demo code, TorchFire*
