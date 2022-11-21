@@ -44,7 +44,7 @@ Forecasting, monitoring, mitigating and controlling of fire spread and cardiovas
 ## **Demos and preliminary results**
 ### Problem settings 
 #### *Solving heat equation with neural network:*
-In this problem, we learn the neural network to solve for the temperature $u$ given arbitrary conductivity field $\kappa$. 2D hear equation is written as follows
+In this problem, we learn the neural network to solve for the temperature $u$ given arbitrary conductivity field $\kappa$. The 2D heat equation is written as follows
 
 $$
 \begin{aligned}
